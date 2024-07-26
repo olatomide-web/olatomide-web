@@ -1,4 +1,5 @@
 ## Hi there 👋
+![lockscreen_wallpaper](https://github.com/user-attachments/assets/32575d43-6183-46a8-aaa7-59a4f5ff6174)
 
 <!--
 **olatomide-web/olatomide-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
