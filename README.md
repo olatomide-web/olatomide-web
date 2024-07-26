@@ -1,5 +1,6 @@
-![600x200](https://github.com/user-attachments/assets/c3bc5601-bed1-468e-be4f-af7c8a44a6d6)
-## Hi there 👋
+![Untitled-1](https://github.com/user-attachments/assets/6efb577d-2313-49ac-b644-13e5891150b7)
+## Hi 👋, I'm Olatomide
+
 
 <!--
 **olatomide-web/olatomide-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
