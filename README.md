@@ -1,4 +1,4 @@
-![Untitled-1](https://github.com/user-attachments/assets/6efb577d-2313-49ac-b644-13e5891150b7)
+![Untitled-1](https://github.com/user-attachments/assets/ba4aaf1c-bd87-4e37-97a3-53e566153aed)
 ## Hi 👋, I'm Olatomide
 
 
