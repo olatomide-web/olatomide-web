@@ -1,7 +1,7 @@
 ![Untitled-1](https://github.com/user-attachments/assets/ba4aaf1c-bd87-4e37-97a3-53e566153aed)
-## Hi 👋, I'm Olatomide
+## Hi there👋, I'm Olatomide
 
-
+A creative Frontend Software Engineer who is Passionate about learning, building and solving problems.
 <!--
 **olatomide-web/olatomide-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
