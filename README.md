@@ -1,7 +1,7 @@
 ![Untitled-1](https://github.com/user-attachments/assets/ba4aaf1c-bd87-4e37-97a3-53e566153aed)
-# 👋 Hi, I'm Olatomide  
+<h3 align="center">🚀 Frontend Developer | 🌐 Web3 Enthusiast | 📚 Lifelong Learner</h3>
 
-<img width="1536" height="1024" alt="olatomiade-github-banner" src="https://github.com/user-attachments/assets/5fd36400-1661-4f5b-a399-a818531c8133" />
+# 👋 Hi, I'm Olatomide  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&lines=Frontend+Developer;Web3+Enthusiast;Smart+Contract+Learner;Always+Building+🚀)](https://git.io/typing-svg)
 
@@ -41,6 +41,7 @@ Currently learning **React.js, Solidity, and Blockchain Development** 🚀
 
 
 ## 📫 Connect With Me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olatomide-aborisade-aabbba209/) 
 - 💼 LinkedIn: [Olatomide Aborisade](https://www.linkedin.com/in/olatomide-aborisade-aabbba209/)  
 - 📧 Email: joshboris2020@gmail.com
 
