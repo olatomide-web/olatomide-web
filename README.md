@@ -23,9 +23,13 @@ Currently learning **React.js, Solidity, and Blockchain Development** 🚀
 ![Git](https://img.shields.io/badge/Tool-Git-red?logo=git)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
 
----
+---Bookmark-Manager
 
 ## 📌 Featured Projects
+- 🔗 [Real Estate](https://github.com/olatomide-web/DonFrayo ) – DonFrayo
+- 🔗 [Finance](https://github.com/olatomide-web/ValorWise ) – ValorWise
+- 🔗 [Book Launch](https://github.com/olatomide-web/torah-times ) – torah-times
+- 🔗 [Book management](https://github.com/olatomide-web/Bookmark-Manager ) – Bookmark-Manager
 
 *(More projects coming soon...)*
 
