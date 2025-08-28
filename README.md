@@ -29,7 +29,6 @@ Currently learning **React.js, Solidity, and Blockchain Development** 🚀
 
 *(More projects coming soon...)*
 
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=olatomide-web&show_icons=true&theme=tokyonight" alt="stats"/>
@@ -39,12 +38,13 @@ Currently learning **React.js, Solidity, and Blockchain Development** 🚀
 
 ---
 
-
 ## 📫 Connect With Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olatomide-aborisade-aabbba209/) 
-- 💼 LinkedIn: [Olatomide Aborisade](https://www.linkedin.com/in/olatomide-aborisade-aabbba209/)  
 - 📧 Email: joshboris2020@gmail.com
 
+---
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=olatomiade.olatomiade)
 
 ---
 
