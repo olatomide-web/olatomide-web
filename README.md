@@ -15,6 +15,7 @@ Currently learning **React.js, Solidity, and Blockchain Development** 🚀
 ![CSS](https://img.shields.io/badge/Code-CSS-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/Framework-React-blue?logo=react)
+![Python](https://img.shields.io/badge/code-Python-yellow?logo=python)
 ![Solidity](https://img.shields.io/badge/Web3-Solidity-black?logo=ethereum)
 ![Hardhat](https://img.shields.io/badge/Tool-Hardhat-yellow?logo=ethereum)
 ![Git](https://img.shields.io/badge/Tool-Git-red?logo=git)
