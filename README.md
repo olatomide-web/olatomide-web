@@ -44,7 +44,8 @@ Currently learning **React.js, Solidity, and Blockchain Development** 🚀
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=olatomiade.olatomiade)
+![Profile views](https://komarev.com/ghpvc/?username=olatomide-web&label=Profile%20views&color=0e75b6&style=flat)
+[![trophy](https://github-profile-trophy.vercel.app/?username=olatomide-web)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
