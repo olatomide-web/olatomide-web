@@ -1,6 +1,8 @@
 ![Untitled-1](https://github.com/user-attachments/assets/ba4aaf1c-bd87-4e37-97a3-53e566153aed)
 # 👋 Hi, I'm Olatomide  
 
+<img width="1536" height="1024" alt="olatomiade-github-banner" src="https://github.com/user-attachments/assets/5fd36400-1661-4f5b-a399-a818531c8133" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&lines=Frontend+Developer;Web3+Enthusiast;Smart+Contract+Learner;Always+Building+🚀)](https://git.io/typing-svg)
 
 💻 Frontend Developer | 🌐 Web3 Enthusiast | ⚡ Smart Contract Learner  
