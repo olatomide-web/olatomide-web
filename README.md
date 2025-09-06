@@ -26,6 +26,7 @@ Currently learning **React.js, Solidity, and Blockchain Development** 🚀
 ---Bookmark-Manager
 
 ## 📌 Featured Projects
+- 🔗 [School Management](https://github.com/olatomide-web/report-card-project) – Lead City International School
 - 🔗 [Real Estate](https://github.com/olatomide-web/DonFrayo ) – DonFrayo
 - 🔗 [Finance](https://github.com/olatomide-web/ValorWise ) – ValorWise
 - 🔗 [Book Launch](https://github.com/olatomide-web/torah-times ) – torah-times
