@@ -17,12 +17,14 @@ Currently learning **Javascript, Node.js, and Python** 🚀
 ![CSS](https://img.shields.io/badge/Code-CSS-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/Framework-React-blue?logo=react)
+![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-purple?logo=bootstrap)
+![Node](https://img.shields.io/badge/Framework-Node-green?logo=node)
 ![Python](https://img.shields.io/badge/code-Python-yellow?logo=python)
 ![Git](https://img.shields.io/badge/Tool-Git-red?logo=git)
 ![GitHub](https://img.shields.io/badge/Tool-Github-white?logo=github)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
 
----Bookmark-Manager
+---
 
 ## 📌 Featured Projects
 - 🔗 [School Management](https://github.com/olatomide-web/report-card-project) – Lead City International School
