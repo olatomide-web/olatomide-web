@@ -1,14 +1,14 @@
 ![Untitled-1](https://github.com/user-attachments/assets/ba4aaf1c-bd87-4e37-97a3-53e566153aed)
-<h3 align="center">🚀 Frontend Developer | 🌐 Web3 Enthusiast | 📚 Lifelong Learner</h3>
+<h3 align="center">🚀 Software Engineer | 🌐 Web3 Enthusiast | 📚 Lifelong Learner</h3>
 
 # 👋 Hi, I'm Olatomide  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&lines=Frontend+Developer;Web3+Enthusiast;Smart+Contract+Learner;Always+Building+🚀)](https://git.io/typing-svg)
 
-💻 Frontend Developer | 🌐 Web3 Enthusiast | ⚡ Smart Contract Learner  
+💻 Software Engineer | 🌐 Web3 Enthusiast | ⚡ Smart Contract Learner  
 
 I'm passionate about building **beautiful UIs** and exploring the **future of the internet with Web3**.  
-Currently learning **React.js, Solidity, and Blockchain Development** 🚀  
+Currently learning **React.js, Node.js, and Blockchain Development** 🚀  
 
 ---
 
