@@ -1,14 +1,14 @@
 ![Untitled-1](https://github.com/user-attachments/assets/ba4aaf1c-bd87-4e37-97a3-53e566153aed)
-<h3 align="center">🚀 Software Engineer | 🌐 Web3 Enthusiast | 📚 Lifelong Learner</h3>
+<h3 align="center">🚀 Software Engineer | 🌐 Programmer | 📚 Lifelong Learner</h3>
 
 # 👋 Hi, I'm Olatomide  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&lines=Frontend+Developer;Web3+Enthusiast;Smart+Contract+Learner;Always+Building+🚀)](https://git.io/typing-svg)
 
-💻 Software Engineer | 🌐 Web3 Enthusiast | ⚡ Smart Contract Learner  
+💻 Software Engineer | 🌐 Programmer | ⚡ 📚 Lifelong Learner 
 
-I'm passionate about building **beautiful UIs** and exploring the **future of the internet with Web3**.  
-Currently learning **React.js, Node.js, and Blockchain Development** 🚀  
+I'm passionate about building **beautiful UIs** and making things **work**.  
+Currently learning **Javascript, Node.js, and Python** 🚀  
 
 ---
 
@@ -18,9 +18,8 @@ Currently learning **React.js, Node.js, and Blockchain Development** 🚀
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/Framework-React-blue?logo=react)
 ![Python](https://img.shields.io/badge/code-Python-yellow?logo=python)
-![Solidity](https://img.shields.io/badge/Web3-Solidity-black?logo=ethereum)
-![Hardhat](https://img.shields.io/badge/Tool-Hardhat-yellow?logo=ethereum)
 ![Git](https://img.shields.io/badge/Tool-Git-red?logo=git)
+![GitHub](https://img.shields.io/badge/Tool-Github-white?logo=github)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
 
 ---Bookmark-Manager
