@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Olatomide  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&lines=Frontend+Developer;Web3+Enthusiast;Smart+Contract+Learner;Always+Building+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&lines=Software+Engineer;Programmer;Lifelong+Learner;Always+Building+🚀)](https://git.io/typing-svg)
 
 💻 Software Engineer | 🌐 Programmer | ⚡ 📚 Lifelong Learner 
 
