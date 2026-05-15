@@ -18,7 +18,7 @@ Currently learning **Javascript, Node.js, and Python** 🚀
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/Framework-React-blue?logo=react)
 ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-purple?logo=bootstrap)
-![Node](https://img.shields.io/badge/Framework-Node-green?logo=node)
+![Node](https://img.shields.io/badge/env-Node-green?logo=node)
 ![Python](https://img.shields.io/badge/code-Python-yellow?logo=python)
 ![Git](https://img.shields.io/badge/Tool-Git-red?logo=git)
 ![GitHub](https://img.shields.io/badge/Tool-Github-white?logo=github)
